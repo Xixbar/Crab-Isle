@@ -1,0 +1,187 @@
+{
+	"textures": [
+		{
+			"image": "cangrejo",
+			"format": "RGBA8888",
+			"size": {
+				"w": 57,
+				"h": 42
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cangrejo-moviendose-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 19,
+						"h": 15
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "cangrejo-detenido-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 14,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 0,
+						"y": 15,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cangrejo-moviendose-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cangrejo-moviendose-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 19,
+						"y": 14,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cangrejo-moviendose-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 14,
+						"w": 19,
+						"h": 14
+					},
+					"frame": {
+						"x": 19,
+						"y": 28,
+						"w": 19,
+						"h": 14
+					}
+				},
+				{
+					"filename": "cangrejo-detenido-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 19,
+						"h": 13
+					},
+					"frame": {
+						"x": 0,
+						"y": 29,
+						"w": 19,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cangrejo-detenido-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 15,
+						"w": 19,
+						"h": 13
+					},
+					"frame": {
+						"x": 38,
+						"y": 0,
+						"w": 19,
+						"h": 13
+					}
+				},
+				{
+					"filename": "cangrejo-ataque-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 16,
+						"w": 19,
+						"h": 12
+					},
+					"frame": {
+						"x": 38,
+						"y": 13,
+						"w": 19,
+						"h": 12
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

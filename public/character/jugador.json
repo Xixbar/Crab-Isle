@@ -1,0 +1,691 @@
+{
+	"textures": [
+		{
+			"image": "jugador",
+			"format": "RGBA8888",
+			"size": {
+				"w": 616,
+				"h": 308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "moviendose-adelante-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 0,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 0,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 0,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 77,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 77,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 77,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-adelante-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 77,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 154,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 154,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 154,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 154,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 231,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 231,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 231,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-atras-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 231,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 308,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 308,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 308,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 308,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 385,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 462,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 539,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-derecha-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 385,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 385,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 385,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 462,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 539,
+						"y": 77,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 462,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 462,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 539,
+						"y": 154,
+						"w": 77,
+						"h": 77
+					}
+				},
+				{
+					"filename": "moviendose-izquierda-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 77
+					},
+					"frame": {
+						"x": 539,
+						"y": 231,
+						"w": 77,
+						"h": 77
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
